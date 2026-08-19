@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "version": 1,
+  "auditors": {
+    "code_auditor": {
+      "enabled": true,
+      "phase": "implementation_milestone"
+    },
+    "goal_auditor": {
+      "enabled": true,
+      "phase": "before_completion"
+    }
+  }
+}
